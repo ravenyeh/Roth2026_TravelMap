@@ -1,0 +1,5 @@
+{
+  "name": "Chiikawa Travel Map",
+  "description": "Generates a cute, Chiikawa-themed cartoon travel map based on your location or search.",
+  "requestFramePermissions": []
+}
